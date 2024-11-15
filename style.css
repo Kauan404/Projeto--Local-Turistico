@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-family: "Open Sans", serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: #1B1B1B;
+}
+
+body {
+    width: 1120px;
+    background-color: #F5F4F0;
+    margin: 88px auto;
+}
+
+h4 {
+    color: #e1624f;
+    margin-bottom: 8px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+img{
+    border-radius: 28px;
+    width: 100%;
+}
+
+
+
+#busan p {
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    font-style: italic;
+    margin-top: 24px;
+}
+
+.divider {
+    width: 100%;
+    height: 1px;
+    margin: 36px 0;
+    background-color: #d9d9d9;
+  }
+  
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+ul li {
+    margin-left: 20px;
+}
+
+ul li::marker{
+    color: #333333;
+}
+
+ol {
+   font-size: 28px;
+}
+
+h3 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    margin-top: 20px;
+ }
+
+p {
+    font-size: 16px;
+    font-weight: normal;
+    color: #333333;
+ }
+
+.history {
+    color: #0C51A7;
+}
+
+.couple {
+    color: #591B98;
+}
+
+.family {
+    color:#E5245E ;
+}
+
+.bud {
+    color:#E95E10 ;
+}
+
+.family, .couple, .bud, .history {
+    font-size: 16px;
+}
+
+.point {
+    margin-top:48px;
+}
+
+footer {
+    text-align: center;
+    margin:65px auto 48px auto;
+    color: #333333;
+}
+
+footer img {
+    vertical-align: center;
+    width: 16px;
+    color: #333333;
+}
+
+.final {
+    text-align: center;
+}
